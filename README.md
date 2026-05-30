@@ -4,13 +4,13 @@
 
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Rohith%20H&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Developer%20%7C%20ML%20Engineer%20%7C%20Building%20AI-powered%20applications&descAlignY=62&descSize=16)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Rohith%20H&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Developer%20%7C%20Data%20Analyst%20%7C%20Building%20Data-Driven%20Applications&descAlignY=62&descSize=16)
 
 <!-- ██████████████████████████████████████████████████████████████ -->
 <!--  SECTION 2 — TYPING HEADER                                     -->
 <!-- ██████████████████████████████████████████████████████████████ -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Rohith+%F0%9F%91%8B;Software+Developer+%7C+ML+Engineer;Building+AI-Powered+Web+Applications;Open+to+SDE+%7C+Web+Dev+%7C+ML+Roles)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Rohith+%F0%9F%91%8B;Software+Developer+%7C+Data+Analyst;Building+Data-Driven+Web+Applications;Open+to+SDE+%7C+Web+Dev+%7C+Data+Roles)](https://git.io/typing-svg)
 
 <br>
 
@@ -75,17 +75,21 @@ class Rohith:
 **Frameworks & Libraries**
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 
-**AI / ML**
+**Data Analysis**
 
-![TF-IDF](https://img.shields.io/badge/TF--IDF-00B4D8?style=flat-square&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-412991?style=flat-square&logoColor=white)
-![Sentence Transformers](https://img.shields.io/badge/Sentence--Transformers-FF6F00?style=flat-square&logoColor=white)
-![Random Forest](https://img.shields.io/badge/Random%20Forest-228B22?style=flat-square&logoColor=white)
-![SVM](https://img.shields.io/badge/SVM-DC143C?style=flat-square&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=google-colab&logoColor=black)
 
 **Databases**
 
@@ -98,8 +102,6 @@ class Rohith:
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=google-colab&logoColor=black)
 
 ---
 
@@ -189,7 +191,7 @@ class Rohith:
 > ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 > ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 > ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
- 
+> ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
 - Developed and deployed **production web applications** in a collaborative team, contributing to multiple client deliverables.
 - Designed and built **responsive user interfaces** using HTML, CSS, JavaScript, and Bootstrap across multiple client projects.
@@ -285,7 +287,7 @@ class Rohith:
 
 <br><br>
 
-*Open to Software Developer · ML/Data roles — full-time or internship*
+*Open to Software Developer · Web Developer · Data Analyst roles — full-time or internship*
 
 </div>
 
